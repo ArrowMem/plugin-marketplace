@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "arrowmem": {
-      "sha": "8646b90172bcee43134e091fff5bc9e3f2498b5d",
+      "sha": "08c18ca6a6442ba9642bd2af3ec920632062c035",
       "components": {
         "mcpServers": [
           {
