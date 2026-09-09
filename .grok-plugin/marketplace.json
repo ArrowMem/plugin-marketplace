@@ -301,7 +301,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ArrowMem/arrowmem-grok-plugin.git",
-        "sha": "942e3262da2379f2ddbdb86c2e5c6247f240ea42"
+        "sha": "51f91418361026290f4f51c14d1a4b5bf4a5ac7d"
       },
       "homepage": "https://arrowmem.ca",
       "keywords": ["ollama", "self-hosted", "security", "mcp", "privacy"],
